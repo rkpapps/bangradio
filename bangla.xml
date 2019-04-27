@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channel>
-	<station name="Dhaka FM" image="https://onlinebanglaradio.com/wp-content/uploads/2015/10/radio-foorti.png" link="http://118.179.219.244:8000/;"/>
+	<station name="Dhaka FM" image="https://cdn.webrad.io/images/logos/radio-net-bd/radio-dhaka.png" link="http://118.179.219.244:8000/;"/>
 	<station name="Radio Foorti" image="https://onlinebanglaradio.com/wp-content/uploads/2015/10/radio-foorti.png" link="http://119.148.23.88:1021/;stream/1/;"/>
 	<station name="Radio Today" image="https://onlinebanglaradio.com/wp-content/uploads/2015/10/radio-foorti.png" link="http://stream.zenolive.com/8wv4d8g4344tv"/>
 	<station name="Radio Bhumi" image="https://onlinebanglaradio.com/wp-content/uploads/2015/10/radio-foorti.png" link="http://149.56.195.94:8545/;stream.mp3"/>
