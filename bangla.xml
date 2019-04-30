@@ -2,24 +2,24 @@
 <channel>
 	<station name="Dhaka FM" image="https://3.bp.blogspot.com/-tiRxZ3ox4hg/XMRLm1pPC8I/AAAAAAAAADg/r6lFhnkks206SGKXBxMv77Ax9fzAfAozwCLcBGAs/s1600/logo200.jpg" link="http://118.179.219.244:8000/;"/>
 	<station name="Radio Foorti" image="https://4.bp.blogspot.com/-6HFrR1jc694/XMRKOg7LzsI/AAAAAAAAADU/ZzyFuDP3O9gecyTMgOnsTwiMjsiENNiLACLcBGAs/s1600/246x0w.jpg" link="http://119.148.23.88:1021/;stream/1/;"/>
-	<station name="Radio Today" image="https://onlinebanglaradio.com/wp-content/uploads/2015/10/radio-foorti.png" link="http://stream.zenolive.com/8wv4d8g4344tv"/>
-	<station name="Radio Bhumi" image="https://onlinebanglaradio.com/wp-content/uploads/2015/10/radio-foorti.png" link="http://149.56.195.94:8545/;stream.mp3"/>
-	<station name="ABC Radio" image="https://onlinebanglaradio.com/wp-content/uploads/2015/10/radio-foorti.png" link="http://st2.zenorad.io:14424/;stream/1"/>
-	<station name="Radio Next" image="https://onlinebanglaradio.com/wp-content/uploads/2015/10/radio-foorti.png" link="http://live.radionext.fm:9000/;"/>
-	<station name="Radio Shadhin" image="https://onlinebanglaradio.com/wp-content/uploads/2015/10/radio-foorti.png" link="http://stream.zenolive.com/umq9q5uuva5tv"/>
-	<station name="Capital FM" image="https://onlinebanglaradio.com/wp-content/uploads/2015/10/radio-foorti.png" link="http://str.radiocapital.fm:8000/;"/>
-	<station name="Peoples Radio" image="https://onlinebanglaradio.com/wp-content/uploads/2015/10/radio-foorti.png" link="http://s3.myradiostream.com:14498/;"/>
-	<station name="Jago FM" image="https://onlinebanglaradio.com/wp-content/uploads/2015/10/radio-foorti.png" link="http://192.240.102.133:12110/;stream/1"/>
-	<station name="Radio Ekattor" image="https://onlinebanglaradio.com/wp-content/uploads/2015/10/radio-foorti.png" link="http://103.253.47.173:8000/;"/>
-	<station name="Colours FM" image="https://onlinebanglaradio.com/wp-content/uploads/2015/10/radio-foorti.png" link="http://45.64.135.88:8000/stream1"/>
-	<station name="Radio Amber" image="https://onlinebanglaradio.com/wp-content/uploads/2015/10/radio-foorti.png" link="http://118.179.215.45:8000/;"/>
-	<station name="Spice FM" image="https://onlinebanglaradio.com/wp-content/uploads/2015/10/radio-foorti.png" link="http://162.254.149.187:9300/stream"/>
-	<station name="Radio Dhoni" image="https://onlinebanglaradio.com/wp-content/uploads/2015/10/radio-foorti.png" link="http://182.160.110.180:1020/;"/>
-	<station name="Radio EDGE" image="https://onlinebanglaradio.com/wp-content/uploads/2015/10/radio-foorti.png" link="http://118.179.215.44:8000/"/>
-	<station name="Radio Sarabela" image="https://onlinebanglaradio.com/wp-content/uploads/2015/10/radio-foorti.png" link="http://162.254.149.146:9308/;stream/1/;stream/1"/>
-	<station name="Radio Din-Raat" image="https://onlinebanglaradio.com/wp-content/uploads/2015/10/radio-foorti.png" link="http://27.147.128.134:8000/"/>
-	<station name="Bangla Radio" image="https://onlinebanglaradio.com/wp-content/uploads/2015/10/radio-foorti.png" link="http://103.43.151.163:6020/;stream.mp3"/>
-	<station name="Bangladesh Betar AM" image="https://onlinebanglaradio.com/wp-content/uploads/2015/10/radio-foorti.png" link="http://192.235.87.105:14322/;stream.mp3"/>
+	<station name="Radio Today" image="https://mytuner.global.ssl.fastly.net/media/tvos_radios/MNLgzG9YyC.png" link="http://stream.zenolive.com/8wv4d8g4344tv"/>
+	<station name="Radio Bhumi" image="https://3.bp.blogspot.com/-OKieP0zKmsI/XMgTlwC5bOI/AAAAAAAAADw/rxpI1OOUqFMjQBkrOHjqGKsxtHztR5eCQCK4BGAYYCw/s400/radiobhumi.png" link="http://149.56.195.94:8545/;stream.mp3"/>
+	<station name="ABC Radio" image="https://www.abcradio.fm/img/frontend/logo.png" link="token=AAABam2bPrfHxwWyN1CkRwWqEC3UZxNaKqdHaubESpgrTdEB7zpF6Q"/>
+	<station name="Radio Next" image="https://mytuner.global.ssl.fastly.net/media/tvos_radios/upabfgnveask.png" link="http://live.radionext.fm:9000/;"/>
+	<station name="Radio Shadhin" image="http://listenfms.com/wp-content/uploads/2013/01/radio-shadhin-92.4-fm.png" link="http://stream.zenolive.com/umq9q5uuva5tv"/>
+	<station name="Capital FM" image="http://www.radiocapital.fm/wp-content/uploads/2017/02/capital-FM-Logo-png-1.png" link="http://str.radiocapital.fm:8000/stream"/>
+	<station name="Peoples Radio" image="https://www.liveonlineradio.net/wp-content/uploads/2012/02/Peoples-Radio1.jpg" link="http://s3.myradiostream.com:14498/;"/>
+	<station name="Jago FM" image="https://www.raz99.com/sites/default/files/styles/tv_channel_actual/public/fmradio/jagofm.jpg" link="http://192.240.102.133:12110/;stream/1"/>
+	<station name="Radio Ekattor" image="http://ekattor.fm/assets/images/pause480.png" link="http://103.253.47.173:8000/;"/>
+	<station name="Colours FM" image="https://cdn-radiotime-logos.tunein.com/s225428d.png" link="http://45.64.135.88:8000/stream1"/>
+	<station name="Radio Amber" image="https://mytuner.global.ssl.fastly.net/media/tvos_radios/wjwsmmxxzujh.png" link="http://118.179.215.45:8000/;"/>
+	<station name="Spice FM" image="https://cdn-radiotime-logos.tunein.com/s116331d.png" link="http://162.254.149.187:9300/stream"/>
+	<station name="Radio Dhoni" image="https://cdn-radiotime-logos.tunein.com/s253281d.png" link="http://182.160.110.180:1020/;"/>
+	<station name="Radio EDGE" image="https://upload.wikimedia.org/wikipedia/commons/b/b8/Edge_LISTENLIVE.jpg" link="http://118.179.215.44:8000/"/>
+	<station name="Radio Sarabela" image="https://bnnrc.net/wp-content/uploads/2017/01/Radio-Sarabela-98.8-300x225.jpg" link="http://162.254.149.146:9308/;stream/1/;stream/1"/>
+	<station name="Radio Din-Raat" image="http://hotjobs.bdjobs.com/jobs/maasrangatv/dr4.jpg" link="http://27.147.128.134:8000/"/>
+	<station name="Bangla Radio" image="https://www.liveonlineradio.net/wp-content/uploads/2010/07/Bangla-Radio-24.jpg" link="http://103.43.151.163:6020/;stream.mp3"/>
+	<station name="Bangladesh Betar AM" image="https://www.liveonlineradio.net/wp-content/uploads/2012/02/Bangladesh-betar1.jpg" link="http://192.235.87.105:14322/;stream.mp3"/>
 	<station name="Bangladesh Betar FM" image="https://onlinebanglaradio.com/wp-content/uploads/2015/10/radio-foorti.png" link="http://192.235.87.105:13748/;stream.mp3"/>
 	<station name="Radio Padma" image="https://onlinebanglaradio.com/wp-content/uploads/2015/10/radio-foorti.png" link="http://cassini.shoutca.st:9109/radiopadma.mp3?_=2"/>
 	<station name="Radio Mahananda" image="https://onlinebanglaradio.com/wp-content/uploads/2015/10/radio-foorti.png" link="http://cast.nawabhost.com:8010/stream/1/play.mp3"/>
@@ -73,7 +73,7 @@
 	<station name="HelloDhaka Shongkolpo" image="https://onlinebanglaradio.com/wp-content/uploads/2015/10/radio-foorti.png" link="http://108.163.245.230:8001/high"/>
 	<station name="HelloDhaka Western" image="https://onlinebanglaradio.com/wp-content/uploads/2015/10/radio-foorti.png" link="http://108.163.245.230:8006/high"/>
 	<station name="Disco Banee Kolkata" image="https://onlinebanglaradio.com/wp-content/uploads/2015/10/radio-foorti.png" link="http://188.166.176.244:8008/;stream/1"/>
-	<station name="AMAR FM" image="https://onlinebanglaradio.com/wp-content/uploads/2015/10/radio-foorti.png" link="http://162.254.149.187:9304/;"/>
+	<station name="AMAR FM" image="http://crewtoo.s3.amazonaws.com/wp-content/uploads/2016/07/A.jpg" link="http://162.254.149.187:9304/;"/>
 	<station name="Radio GoonGoon" image="https://onlinebanglaradio.com/wp-content/uploads/2015/10/radio-foorti.png" link="http://media.dreamhousebd.com:8888/;"/>
 	<station name="Radio 2fun" image="https://onlinebanglaradio.com/wp-content/uploads/2015/10/radio-foorti.png" link="http://radio.ethii.com:8000/airtime_128"/>
 	<station name="eDoctor Radio" image="https://onlinebanglaradio.com/wp-content/uploads/2015/10/radio-foorti.png" link="http://184.154.43.106:8008/;"/>
