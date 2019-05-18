@@ -20,9 +20,9 @@
 	<station name="Radio Din-Raat" image="http://hotjobs.bdjobs.com/jobs/maasrangatv/dr4.jpg" link="http://27.147.128.134:8000/"/>
 	<station name="Bangla Radio" image="https://www.liveonlineradio.net/wp-content/uploads/2010/07/Bangla-Radio-24.jpg" link="http://103.43.151.163:6020/;stream.mp3"/>
 	<station name="Bangladesh Betar AM" image="https://www.liveonlineradio.net/wp-content/uploads/2012/02/Bangladesh-betar1.jpg" link="http://192.235.87.105:14322/;stream.mp3"/>
-	<station name="Bangladesh Betar FM" image="https://4.bp.blogspot.com/-hxk7LhUtqXs/XMgciEQZzrI/AAAAAAAAAD8/smkctkPq-2k8gCbc1LT49__2mPHH5jIWwCK4BGAYYCw/s400/main%2Blogo-min.png" link="http://192.235.87.105:13748/;stream.mp3"/>
-	<station name="Radio Padma" image="https://4.bp.blogspot.com/-hxk7LhUtqXs/XMgciEQZzrI/AAAAAAAAAD8/smkctkPq-2k8gCbc1LT49__2mPHH5jIWwCK4BGAYYCw/s400/main%2Blogo-min.png" link="http://cassini.shoutca.st:9109/radiopadma.mp3?_=2"/>
-	<station name="Radio Mahananda" image="https://4.bp.blogspot.com/-hxk7LhUtqXs/XMgciEQZzrI/AAAAAAAAAD8/smkctkPq-2k8gCbc1LT49__2mPHH5jIWwCK4BGAYYCw/s400/main%2Blogo-min.png" link="http://cast.nawabhost.com:8010/stream/1/play.mp3"/>
+	<station name="Bangladesh Betar FM" image="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg" link="http://192.235.87.105:13748/;stream.mp3"/>
+	<station name="Radio Padma" image="http://cdn-radiotime-logos.tunein.com/s296441q.png" link="http://cassini.shoutca.st:9109/radiopadma.mp3?_=2"/>
+	<station name="Radio Mahananda" image="https://www.radioonlinelive.com/wp-content/uploads/2018/11/Radio-Mahananda-Live.jpg" link="http://cast.nawabhost.com:8010/stream/1/play.mp3"/>
 	<station name="Radio Aamar" image="https://4.bp.blogspot.com/-hxk7LhUtqXs/XMgciEQZzrI/AAAAAAAAAD8/smkctkPq-2k8gCbc1LT49__2mPHH5jIWwCK4BGAYYCw/s400/main%2Blogo-min.png" link="http://202.126.122.43:9898/;stream.mp3"/>
 	<station name="Radio Dhol" image="https://4.bp.blogspot.com/-hxk7LhUtqXs/XMgciEQZzrI/AAAAAAAAAD8/smkctkPq-2k8gCbc1LT49__2mPHH5jIWwCK4BGAYYCw/s400/main%2Blogo-min.png" link="http://192.240.102.133:11331/live"/>
 	<station name="Asian Radio" image="https://4.bp.blogspot.com/-hxk7LhUtqXs/XMgciEQZzrI/AAAAAAAAAD8/smkctkPq-2k8gCbc1LT49__2mPHH5jIWwCK4BGAYYCw/s400/main%2Blogo-min.png" link="http://202.126.122.43:9595/;stream.mp3"/>
